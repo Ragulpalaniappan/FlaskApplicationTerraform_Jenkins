@@ -1,2 +1,0 @@
-# FlaskApplicationTerraform_Jenkins
-FlaskApplicationTerraform_Jenkins
